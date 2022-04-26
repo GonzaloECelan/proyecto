@@ -129,7 +129,9 @@ select{
     
 }
 .contenedor:hover{
-    box-shadow: 0 0 1.5em rgb(0,0,0,0.4)
+    box-shadow: 0 0 1.5em rgb(0,0,0,0.4);
+    transform: scale(1.04);
+    
 }
 
 .tajeta{
@@ -139,7 +141,9 @@ select{
 }
 
 .tarjeta:hover{
-    box-shadow: 0 0 1.5em rgb(0,0,0,0.4)
+    box-shadow: 0 0 1.5em rgb(0,0,0,0.4);
+    
+    
 }
 
 .imagen img{
